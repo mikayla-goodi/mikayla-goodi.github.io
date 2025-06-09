@@ -1,2 +1,2 @@
 # mikayla-goodi.github.io
-Personal website for CIT281
+My CIT Minor Portfolio for CIT281 and beyond
