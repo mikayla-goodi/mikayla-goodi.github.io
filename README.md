@@ -29,9 +29,18 @@ Welcome to my CIT Portfolio. This site showcases the labs and projects I've comp
 - [Project 7: Portfolio Page]
   (https://github.com/mikayla-goodi/cit281-p7)
   
-  This site itself! Hosted on GitHub Pages
+  This site itself! Hosted on GitHub Pages, using markdown and showcasing course deliverables
   
   ![Banner](luca-bravo-XJXWbfSo2f0-unsplash.jpg)
   
 ---
 ## Portfolio Images
+
+
+
+
+---
+## Upcomings:
+This portfolio will grow as I complete additional CIT minor coursework, as well as my career moving forward. 
+Contact me at: mgoodi@uoregon.edu {work}
+               iceprincesspink10@icloud.com {personal}
