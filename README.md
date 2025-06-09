@@ -3,6 +3,8 @@ My CIT Minor Portfolio for CIT281 and beyond
 
 Welcome to my CIT Portfolio. This site showcases the labs and projects I've completed in the CIT minor program at the University of Oregon.
 
+![Banner](batu-gezer-MDPg0yw4M1c-unsplash.jpg)
+
 ---
 ## CIT 281 Labs
 
