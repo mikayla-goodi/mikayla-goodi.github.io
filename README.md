@@ -42,5 +42,7 @@ Welcome to my CIT Portfolio. This site showcases the labs and projects I've comp
 ---
 ## Upcomings:
 This portfolio will grow as I complete additional CIT minor coursework, as well as my career moving forward. 
-Contact me at: mgoodi@uoregon.edu {work}
-               iceprincesspink10@icloud.com {personal}
+
+Contact me at: 
+- mgoodi@uoregon.edu {work}
+- iceprincesspink10@icloud.com {personal}
