@@ -1,4 +1,4 @@
-# mikayla-goodi.github.io
+# mikayla-goodi.github.io 
 My CIT Minor Portfolio for CIT281 and beyond
 
 Welcome to my CIT Portfolio. This site showcases the labs and projects I've completed in the CIT minor program at the University of Oregon.
