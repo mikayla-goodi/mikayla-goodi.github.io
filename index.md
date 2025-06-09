@@ -36,7 +36,7 @@ Welcome to my CIT Portfolio. This site showcases the labs and projects I've comp
 ---
 ## Portfolio Images
 
-
+![Screenshot of Project 7](489FDD18-14DA-4534-AAA3-4FD0426C84A3.png)
 
 
 ---
