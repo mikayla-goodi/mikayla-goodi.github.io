@@ -30,6 +30,8 @@ Welcome to my CIT Portfolio. This site showcases the labs and projects I've comp
   (https://github.com/mikayla-goodi/mikayla-goodi.github.io)
   
   This site itself! Hosted on GitHub Pages
-
+  
+  ![Banner](luca-bravo-XJXWbfSo2f0-unsplash.jpg)
+  
 ---
 ## Portfolio Images
