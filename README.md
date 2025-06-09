@@ -14,7 +14,7 @@ Welcome to my CIT Portfolio. This site showcases the labs and projects I've comp
   Explored GitHub organizations and initial project structure
 
 - [Lab 8: Express API + Fetch]
-  (https://github.com/mikayla-goodi/mikayla-goodi.github.io)
+  (https://github.com/mikayla-goodi/cit281-lab8)
   
   Built an Express backend that uses fetch and serves a client frontend
 
