@@ -27,7 +27,7 @@ Welcome to my CIT Portfolio. This site showcases the labs and projects I've comp
 ## CIT 281 Projects
 
 - [Project 7: Portfolio Page]
-  (https://github.com/mikayla-goodi/mikayla-goodi.github.io)
+  (https://github.com/mikayla-goodi/cit281-p7)
   
   This site itself! Hosted on GitHub Pages
   
